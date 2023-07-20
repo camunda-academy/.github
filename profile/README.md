@@ -6,6 +6,7 @@
 ## Contact education team to provide some feedback?
 ## Each repository includes #topics. They could be used to tag the content or mentioning popular tags like #academic #education. They are searchable publicly.
 
+https://github.com/camunda-academy/academy-theme/blob/master/themes/featured-image.png
 
 
 # Project Name
