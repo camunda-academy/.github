@@ -20,19 +20,21 @@
 
 ## General Information
 
-> Our vision is to increase the number of individuals and organizations with the knowledge and skills required to be successful with Camunda.
+> Our vision is to increase the number of individuals and organizations with the knowledge and skills required to be successful with Camunda
 
-- Our mission is to ensure that Camunda users can seamlessly acquire the knowledge and skills needed to solve their process automation challenges.
+> Our mission is to ensure that Camunda users can seamlessly acquire the knowledge and skills needed to solve their process automation challenges
 
-- Never stop learning
+> Never stop learning
 
-- The Universal Process Orchestrator
+> The Universal Process Orchestrator
 - 
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+#Should we talk about the team members and provide their GitHub accounts?#
 
 
 ## Course Catalog
@@ -62,10 +64,8 @@
 
   
 ## Contribution
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+Talk about the new course development and new releases improvement cicle!
+How to contribute to labs creating issues.
 
 
 ## Contact
