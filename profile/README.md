@@ -6,12 +6,9 @@
 ## Contact education team to provide some feedback?
 ## Each repository includes #topics. They could be used to tag the content or mentioning popular tags like #academic #education. They are searchable publicly.
 
-https://github.com/camunda-academy/academy-theme/blob/master/themes/featured-image.png
-
-
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+<a href="https://academy.camunda.com/" target="_blank">
+  <img src="featured-image.png" alt="Camunda Academy - Start learning" title="Camunda Academy"/>
+</a>
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -28,6 +25,13 @@ https://github.com/camunda-academy/academy-theme/blob/master/themes/featured-ima
 
 
 ## General Information
+
+> Our vision is to increase the number of individuals and organizations with the knowledge and skills required to be successful with Camunda.
+
+- Our mission is to ensure that Camunda users can seamlessly acquire the knowledge and skills needed to solve their process automation challenges.
+
+- 
+- 
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
