@@ -47,7 +47,7 @@
 ### Learning Paths
 - [Camunda 8 - Getting Started](https://academy.camunda.com/path/c8-lp-getting-started)
 - [Camunda 8 - Developer](https://academy.camunda.com/path/c8-lp-developer)
-- [Camunda 8 - Administrator](https://academy.camunda.com/page/dmn)
+- [Camunda 8 - Administrator](https://academy.camunda.com/path/c8-lp-administrator)
 - [Camunda 8 - Architect](https://academy.camunda.com/path/c8-lp-architect)
 - [Camunda 8 - Business Analyst](https://academy.camunda.com/path/c8-lp-business-analyst)
 - [Camunda 8 - Team Member](https://academy.camunda.com/path/c8-lp-team-member)
