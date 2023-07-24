@@ -1,43 +1,24 @@
 # Welcome to the Camunda Academy!
 
-## Understand what is the Camunda Academy project
-## Get more information about courses
-## Know how to contribute to the project (issues, improvements, etc.)
-## Contact education team to provide some feedback?
-## Each repository includes #topics. They could be used to tag the content or mentioning popular tags like #academic #education. They are searchable publicly.
-
 <a href="https://academy.camunda.com/" target="_blank">
   <img src="featured-image.png" alt="Camunda Academy - Start learning" title="Camunda Academy"/>
 </a>
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Course catalog](#course-catalog)
-* [Contribution](#contribution)
-* [Contact](#contact)
+* [	ℹ General Info](#general-information)
+* [📚 Course catalog](#course-catalog)
+* [:bowtie: Team members](#team-members)
+* [:speech_balloon: Contact](#contact)
 <!-- * [License](#license) -->
 
 
-## General Information
+## ℹ General Information
 
-> Our vision is to increase the number of individuals and organizations with the knowledge and skills required to be successful with Camunda
+> 👉 Our vision is to increase the number of individuals and organizations with the knowledge and skills required to be successful with Camunda
 
-> Our mission is to ensure that Camunda users can seamlessly acquire the knowledge and skills needed to solve their process automation challenges
+> 👉 Our mission is to ensure that Camunda users can seamlessly acquire the knowledge and skills needed to solve their process automation challenges
 
-> Never stop learning
-
-> The Universal Process Orchestrator
-- 
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-#Should we talk about the team members and provide their GitHub accounts?#
-
-
-## Course Catalog
+## 📚 Course Catalog
 
 ### On Demand
 - [How to](https://academy.camunda.com/page/how-to)
@@ -62,16 +43,28 @@
 ### Adoption Plan
 - [Camunda Adoption Plan](https://academy.camunda.com/plan/adoption)
 
-  
-## Contribution
-Talk about the new course development and new releases improvement cicle!
-How to contribute to labs creating issues.
+## :bowtie: Team Members
 
+### Education (Contributors)
 
-## Contact
-Created by the Camunda Education Team - feel free to [contact us](mailto:academy@camunda.com)!
+* [Enrico Curiotto](https://github.com/ecuriotto)
+* [Ingo Richtsmeier](https://github.com/ingorichtsmeier)
+* [Hendrik Kupitz](https://github.com/hkupitz)
+* [Manuel Dittmar](https://github.com/ManuelDittmar)
 
+### Education (Core)
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
+* [Darren Devine](https://github.com/darrendevine)
+* [Ancuta Dida](https://github.com/AncutaDida)
+* [Jana Eschwaltrup](https://github.com/JanaEsch)
+* [Marius Dragan](https://github.com/MariusODr)
+* [Víctor García](https://github.com/goenkale)
+* [Tara Swenson](https://github.com/taraswenson)
+
+### Web Marketing
+
+* [David Paradis](https://github.com/davidparadis)
+
+## :speech_balloon: Contact
+
+Created with love ❤ by the Camunda Education Team - feel free to [contact us](mailto:academy@camunda.com) 💌 !
