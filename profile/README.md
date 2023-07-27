@@ -30,7 +30,7 @@
 - [BPMN 2.0](https://academy.camunda.com/camunda-bpmn-ilt-en)
 - [Camunda 7 - Platform for Developers](https://academy.camunda.com/c7-platform-developers-ilt-en)
 - [Camunda 8 - Platform for Developers](https://academy.camunda.com/c8-platform-developers-ilt-en)
-- [DMN](https://academy.camunda.com/camunda-dmn-ilt-en))
+- [DMN](https://academy.camunda.com/camunda-dmn-ilt-en)
 
 ## :speech_balloon: Contact
 
