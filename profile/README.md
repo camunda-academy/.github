@@ -20,14 +20,16 @@
 ## 📚 Course Catalog
 
 ### On Demand
+- [BPMN](https://academy.camunda.com/page/bpmn)
+- [Camunda 7](https://academy.camunda.com/page/camunda-7)
 - [Camunda 8](https://academy.camunda.com/page/camunda-8)
 - [Camunda 8 - How To](https://academy.camunda.com/page/how-to)
-- [BPMN](https://academy.camunda.com/page/bpmn)
 - [DMN](https://academy.camunda.com/page/dmn)
 
 ### Instructor Led
-- [Camunda 8 - Platform for Developers](https://academy.camunda.com/c8-platform-developers-ilt-en)
 - [BPMN 2.0](https://academy.camunda.com/camunda-bpmn-ilt-en)
+- [Camunda 7 - Platform for Developers](https://academy.camunda.com/c7-platform-developers-ilt-en)
+- [Camunda 8 - Platform for Developers](https://academy.camunda.com/c8-platform-developers-ilt-en)
 - [DMN](https://academy.camunda.com/camunda-dmn-ilt-en))
 
 ## :speech_balloon: Contact
