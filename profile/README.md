@@ -1,7 +1,7 @@
 # Welcome to Camunda Academy!
 
 <a href="https://academy.camunda.com/" target="_blank">
-  <img src="featured-image.png" alt="Camunda Academy - Start learning" title="Camunda Academy"/>
+  <img src="https://github.com/camunda-academy/.github/blob/master/profile/featured-image.png" alt="Camunda Academy - Start learning" title="Camunda Academy"/>
 </a>
 
 ## Table of Contents
